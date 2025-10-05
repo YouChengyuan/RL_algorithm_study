@@ -1,1 +1,4 @@
-# RL_algorithm_study
+# Intro
+
+This repository contains implementations of deep learning algorithms from the literature, intended for educational purposes.
+
